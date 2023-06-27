@@ -1,0 +1,43 @@
+
+int smth(int n, int b) {
+    int h = -1, a = 2;
+    a -= 2 + 5 * (h - 1);
+    a = h + 1 - h;
+    a = a++;
+    a = 2;
+    switch (a == 2){
+    case 1:
+        for(h = 1; h > 10 + (1 + h + (h + 1)); h = h + 1;)
+        {
+        in a;
+        }
+    default:
+        int k;
+        k =  k + 2;
+        in k;
+    case 2:
+        while (k + 2 == ++n - 1) {
+        n = 2;
+        }
+    case 3:
+        if  (n == 2 - 5) {
+            return 1;
+        } else { 
+            return 0;
+        }
+        }
+}
+int main() {
+    int i, result = -1;
+    int k, t, h, a;
+    in i;
+    result = smth( i , i ) ;
+    result = smth (i ,k);
+    result = smth ( i, k);
+    out "\nResult = " ;
+    out result ;
+    for(h = 1; h > 10; h = h + 1;)
+    {
+    in a;
+    }
+}
